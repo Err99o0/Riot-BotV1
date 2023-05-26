@@ -1,0 +1,18 @@
+{
+  "TOKEN": "MTA2NTQ0OTc0MjIxMDk3MzcxMQ.Gj-OU4.ii0kgEQiHbbKIAlEJrvXheukogQiAcQ9ino_J0",
+  "CLIENT_ID": "1065449742210973711",
+	"prefix": "+",
+    "ownerid": "910188379625390090",
+	"verifyRole": "1016704626956963870",
+    "cmdlog": "1089888736327761920",
+    "logs": "1089888735124013186",
+    "embedColor": "#2c2d31",
+    "invite": "https://riotbot.ml",
+    "support": "https://dsc.gg/pcrpdeveloping",
+    "clientId": "cb41529dc3bd4d8f8a240dbee0fff4e8",
+    "clientSecret": "bcca82f42930498aa385a8289fdf276b",
+  "mongodb": "mongodb+srv://BRITTO:BRITTO@cluster0.tl3u41k.mongodb.net/?retryWrites=true&w=majority",
+	"messages": {
+		"COOLDOWN_MESSAGE": "You are on `<duration>` cooldown!"
+	}
+}
